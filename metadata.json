@@ -1,0 +1,6 @@
+{
+  "name": "Marcavueltas",
+  "description": "Aplicación para resaltar y seguir vuelta a vuelta patrones de tejido en PDF, PNG y JPG mediante atajos de teclado configurables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
